@@ -4,17 +4,6 @@ This project aims to predict the likelihood of a stroke using a machine learning
 
 The project is developed in Python using the Jupyter Notebook environment. It leverages common data science libraries like Pandas, NumPy, Scikit-learn, and others for data processing, model building, and evaluation.
 
-Dataset
-The dataset used for this project consists of several health-related features that are correlated with stroke occurrence. Typical features might include:
-
-Age
-Hypertension
-Heart Disease
-BMI
-Smoking Status
-Blood Glucose Levels
-and other clinical features
-Data preprocessing includes handling missing values, scaling numeric variables, and encoding categorical variables.
 
 Key Features
 Data Ingestion: The data is ingested and processed in the notebook for further analysis.
